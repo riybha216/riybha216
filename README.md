@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on machine learning research & projects, applying NLP + computer vision!
+- 🌱 I’m learning about information theory & data compression.
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on machine learning research & projects, applying NLP + computer vision.
-- 🌱 I’m currently learning information theory & data compression.
 - 💬 Ask me about machine learning algorithms, web dev, algorithm design.
 
 <!--
