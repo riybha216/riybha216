@@ -3,7 +3,7 @@
 - 🔭  I’m currently working on machine learning research & projects, applying NLP + computer vision!
 - 🌱  I’m learning about information theory & data compression.
 - 😄  Pronouns: She/Her
-- 💬  Ask me about machine learning algorithms, web dev, algorithm design.
+- 💬  Ask me about machine learning algorithms, web dev, algorithm design, and my projects!
 
 <!--
 **riybha216/riybha216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
