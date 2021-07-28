@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Riya! 👋
 
 - 🔭  I’m currently working on machine learning research & projects, applying NLP + computer vision!
 - 🌱  I’m learning about information theory & data compression.
