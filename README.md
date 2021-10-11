@@ -1,6 +1,6 @@
 ### Hi there, I'm Riya! 👋
 
-- 🔭  I’m currently working on machine learning research, applying Natural Language Processing.
+- 🔭  I’m currently working on machine learning research, applying Natural Language Processing + data science.
 - 🌱  I’m learning about information theory & data compression.
 - 😄  Pronouns: She/Her
 - 💬  Ask me about machine learning algorithms, web dev, algorithm design, and my projects!
