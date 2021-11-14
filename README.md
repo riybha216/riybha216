@@ -1,6 +1,6 @@
 ### Hi there, I'm Riya! 👋
 
-- 🔭  I’m currently working on machine learning applications to Natural Language Processing (NLP) + information theory to the non-verbal space.
+- 🔭  I’m currently working on machine learning applications to Natural Language Processing (NLP) + information theory in the non-verbal space.
 - 👯  I've worked in the:
             - bioinformatics space, investigating genomic data and compression algorithms
       	- intersection of biology and machine learning, researching pain disorders and teaching machines to understand pain symptoms in people
