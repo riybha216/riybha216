@@ -2,10 +2,6 @@
 
 - 🔭  I’m currently working on machine learning applications to Natural Language Processing (NLP) + information theory in the non-verbal space.
 - 👯  I've worked in the:
-- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
             - bioinformatics space, investigating genomic data and compression algorithms
       	- intersection of biology and machine learning, researching pain disorders and teaching machines to understand pain symptoms in people
        	- Natural Language Processing field, optimizing such models by first understanding tokenizations and their efficiency
