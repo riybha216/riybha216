@@ -1,12 +1,34 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Riya</a> 👋
+Hi there, I'm Riya 👋
 </h3>
 
-- 🔭  I’m currently working on Natural Language processing and Information Theory research, investigating the information conveyed through the non-verbal channel.
-- 👯  I've worked in the: ***bioinformatics space***, investigating genomic data and compression algorithms; ***intersection of biology and machine learning***, researching pain disorders and teaching machines to understand pain symptoms in people; ***Natural Language Processing field***, optimizing such models by first understanding tokenizations and their efficiency; ***cryptography*** sector, decrypting texts written in unknown languages and tracing their origins by using NLP and computer vision.
-- 🌱  I’m learning about Information Theory & advanced statistics currently.
-- 😄  Pronouns: She/Her
-- 💬  Ask me about NLP models, web development strategies and languages (HTML/CSS/JS), effective algorithm design, and my projects!
+<h2 align="center">
+I'm an avid coder 💻, machine learning enthusiast 🤖, and designer 🎨!
+</h2>
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/riya-bhatia1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Riya Bhatia | LinkedIn" width="21px"/></a>
+</br>
+- 💬 If you have any questions or would like to chat, please do not hesitate to reach out!
+
+## 🔭 I'm currently working on
+
+- FDetect (Fibromyalgia detection system)
+- My personal website! (Coming soon...)
+- Expanding my research skills
+
+## 🌱 I'm currently learning
+
+- ReactJS
+- Information Theory 
+- Discrete Math!
+
+## 📈 GitHub Stats 
+
+[![Riya's github stats](https://github-readme-stats.vercel.app/api?username=riybha216)](https://github.com/riybha216)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riybha216&layout=compact)](https://github.com/riybha216)
 
 <!--
 **riybha216/riybha216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
