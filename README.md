@@ -3,7 +3,7 @@ Hi there, I'm Riya 👋
 </h3>
 
 <h2 align="center">
-I'm an avid coder 💻, machine learning enthusiast 🤖, and current student at Carnegie Mellon University studying CS 👩🏻‍🏫!
+I'm an avid coder 💻, machine learning enthusiast 🤖, and enthusiastic learner 👩🏻‍🏫!
 </h2>
 
 ### 🤝 Connect with me:
