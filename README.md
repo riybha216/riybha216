@@ -1,10 +1,10 @@
-<h3 align="center">
-Hi there, I'm Riya 👋
-</h3>
-
 <h2 align="center">
-I'm an avid coder 💻, machine learning enthusiast 🤖, and enthusiastic learner 👩🏻‍🏫!
+Hi there, I'm Riya 👋
 </h2>
+
+<h3 align="center">
+I'm an avid coder 💻, machine learning enthusiast 🤖, and enthusiastic learner 👩🏻‍🏫!
+</h3>
 
 ### 🤝 Connect with me:
 
