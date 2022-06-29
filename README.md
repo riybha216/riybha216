@@ -2,37 +2,38 @@
 Hi there, I'm Riya! 👋
 </h2>
 
-I'm a current student at Carnegie Mellon University avid coder and enthusiastic learner
+I'm Riya Bhatia, a current freshman at Carnegie Mellon University studying computer science. I'm an avid coder and machine learning enthusiast. Two years ago, I founded FDetect, a more rapid and centralized fibromyalgia (one of the most commonly misdiagnosed pain disorders) detection system. FDetect has now reached 50+ active beta testers, been recognized by a variety of global tech & service organizations, and is backed by experts in the field! As a programmer, I enjoy solving interdisciplinary problems, as shown by my projects.
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/riya-bhatia1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Riya Bhatia | LinkedIn" width="21px"/></a>
+[![Mail Badge](https://img.shields.io/badge/-riyab0504@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:riyab0504@gmail.com)
 </br>
-- 💬 If you have any questions or would like to chat, please do not hesitate to reach out!
 
-## 🔭 I'm currently working on
 
-- FDetect (A more rapid and centralized fibromyalgia detection system)
+### 🔭 I'm currently working on
+
+- FDetect
 - My personal website!
-- Expanding my research skills
+- Expanding my leadership skills
 
-## 🌱 I'm currently learning
+### 🌱 I'm currently learning
 
 - C
 - ReactJS
-- Information Theory 
+- Information Theory/Advanced Statistics
 - Discrete Math
 
-#### Top Technologies
+### Top Technologies
 
-[![Python badge](https://img.shields.io/badge/python-2314354C.svg?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](https://www.python.org/) [![C++ badge](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![VS_code badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![vim badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&labelColor=black&logo=vim&logoColor=white)](https://en.wikipedia.org/wiki/Vim_(text_editor)) [![git badge](https://img.shields.io/badge/git/github-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](https://github.com/) [![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](https://wiki.archlinux.org/) 
+[![Python badge](https://img.shields.io/badge/python-2314354C.svg?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](https://www.python.org/) [![C++ badge](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![VS_code badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![vim badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&labelColor=black&logo=vim&logoColor=white)](https://en.wikipedia.org/wiki/Vim_(text_editor)) [![git badge](https://img.shields.io/badge/git/github-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](https://github.com/) [![HTML badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org) 
 
-## 📈 GitHub Stats 
+### Github Stats
 
-[![Riya's github stats](https://github-readme-stats.vercel.app/api?username=riybha216)](https://github.com/riybha216)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riybha216&layout=compact)](https://github.com/riybha216)
-
+<p align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=riybha216&show_icons=true&count_private=true&theme=material-palenight">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=riybha216&theme=material-palenight&hide_border=true"
+</p>
 <!--
 **riybha216/riybha216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
