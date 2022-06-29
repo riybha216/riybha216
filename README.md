@@ -1,10 +1,8 @@
 <h2 align="center">
-Hi there, I'm Riya 👋
+Hi there, I'm Riya! 👋
 </h2>
 
-<h3 align="center">
-I'm an avid coder 💻, machine learning enthusiast 🤖, and enthusiastic learner 👩🏻‍🏫!
-</h3>
+I'm a current student at Carnegie Mellon University avid coder and enthusiastic learner
 
 ### 🤝 Connect with me:
 
@@ -14,8 +12,8 @@ I'm an avid coder 💻, machine learning enthusiast 🤖, and enthusiastic learn
 
 ## 🔭 I'm currently working on
 
-- FDetect (Fibromyalgia detection system)
-- My personal website! (Coming soon...)
+- FDetect (A more rapid and centralized fibromyalgia detection system)
+- My personal website!
 - Expanding my research skills
 
 ## 🌱 I'm currently learning
@@ -24,6 +22,10 @@ I'm an avid coder 💻, machine learning enthusiast 🤖, and enthusiastic learn
 - ReactJS
 - Information Theory 
 - Discrete Math
+
+#### Top Technologies
+
+[![Python badge](https://img.shields.io/badge/python-2314354C.svg?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](https://www.python.org/) [![C++ badge](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![VS_code badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![vim badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&labelColor=black&logo=vim&logoColor=white)](https://en.wikipedia.org/wiki/Vim_(text_editor)) [![git badge](https://img.shields.io/badge/git/github-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](https://github.com/) [![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](https://wiki.archlinux.org/) 
 
 ## 📈 GitHub Stats 
 
