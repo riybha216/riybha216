@@ -20,9 +20,10 @@ I'm an avid coder 💻, machine learning enthusiast 🤖, and enthusiastic learn
 
 ## 🌱 I'm currently learning
 
+- C
 - ReactJS
 - Information Theory 
-- Discrete Math!
+- Discrete Math
 
 ## 📈 GitHub Stats 
 
