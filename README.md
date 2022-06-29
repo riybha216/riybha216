@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2>
 Hi there, I'm Riya! 👋
 </h2>
 
