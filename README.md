@@ -2,7 +2,7 @@
 Hi there, I'm Riya! 👋
 </h2>
 
-I'm Riya Bhatia, a current freshman at Carnegie Mellon University studying computer science. I'm an avid coder and machine learning enthusiast. Two years ago, I founded FDetect, a more rapid and centralized fibromyalgia (one of the most commonly misdiagnosed pain disorders) detection system. FDetect has now reached 50+ active beta testers, been recognized by a variety of global tech & service organizations, and is backed by experts in the field! As a programmer, I enjoy solving interdisciplinary problems, as shown by my projects.
+I'm Riya Bhatia, a current freshman at Carnegie Mellon University studying computer science. I'm an avid coder and machine learning enthusiast. As a programmer, I enjoy solving interdisciplinary problems, as shown by my projects.
 
 ### 🤝 Connect with me:
 
@@ -13,7 +13,7 @@ I'm Riya Bhatia, a current freshman at Carnegie Mellon University studying compu
 
 ### 🔭 I'm currently working on
 
-- FDetect
+- FDetect, a rapid and more accurate fibromyalgia detection tool
 - My personal website!
 - Expanding my leadership skills
 
