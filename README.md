@@ -2,7 +2,7 @@
 Hi there, I'm Riya! 👋
 </h2>
 
-I'm Riya Bhatia, a current freshman at Carnegie Mellon University studying computer science. I'm an avid coder and machine learning enthusiast. As a programmer, I enjoy solving interdisciplinary problems, as shown by my projects.
+I'm Riya Bhatia, a current freshman at Carnegie Mellon University studying computer science. I'm an avid coder, Rubik's cube enthusiast, and Bay Area native. As a programmer, I enjoy solving interdisciplinary problems, as shown by my projects.
 
 ### 🤝 Connect with me:
 
