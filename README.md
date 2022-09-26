@@ -2,7 +2,7 @@
 Hi there, I'm Riya! 👋
 </h2>
 
-I'm Riya Bhatia, a current freshman at Carnegie Mellon University studying computer science. I'm an avid coder, and I'm currently investigating machine learning methods to produce a rapid and more effective fibromyalgia diagnosis tool. As a programmer, I enjoy solving interdisciplinary problems with people who have the same goals as me: creating a more safe and equitable world that values collaboration, diversity, and the power of software to create positive change in secluded communities.
+I'm Riya Bhatia, a current freshman at Carnegie Mellon University studying computer science. I'm an avid coder, and I'm currently investigating machine learning methods to produce a rapid and more effective fibromyalgia diagnosis tool. As a programmer, I enjoy solving interdisciplinary problems, as seen by my projects, with ambitious people who have the same goals as me: creating a more safe and equitable world that values collaboration, diversity, and the power of software to create positive change in the way we live.
 
 ### 🤝 Connect with me:
 
