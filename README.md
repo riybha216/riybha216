@@ -14,7 +14,6 @@ I'm Riya Bhatia, an undergraduate at Carnegie Mellon University studying compute
 ### 🔭 I'm currently working on
 
 - FDetect: a rapid and more accurate fibromyalgia detection tool that utilizes convolutional neural networks to diagnose pain disorder 5x faster than humans
-- My personal website!
 - Expanding my leadership skills by working in areas that I feel I can make a change in
 
 ### 🌱 I'm currently learning
