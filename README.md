@@ -19,7 +19,7 @@ I'm Riya Bhatia, an undergraduate at Carnegie Mellon University studying compute
 
 ### 🌱 I'm currently learning
 
-- C, Stanford ML
+- C, Standard ML
 - Information Theory: One of the most beautiful areas of computer science and math that explains the world around us
 
 ### Github Stats
