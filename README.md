@@ -1,5 +1,5 @@
 - 👋 Hi there! I’m Riya, a Computer Science student at Carnegie Mellon University's School of Computer Science. I am pursuing a concentration in Machine Learning.
-- 💼 This past summer, I was a Software Engineer Intern at [Bloomberg](https://github.com/bloomberg), where I helped develop scalable client workflows on the Bloomberg Terminal in the Foreign Exchange (FX) space. I am excited to return to Bloomberg this summer!
+- 💼 This past summer, I was a Software Engineer Intern at [Bloomberg](https://github.com/bloomberg), where I helped develop scalable client workflows on the Bloomberg Terminal in the Foreign Exchange (FX) space. I am excited to return to Bloomberg for summer 2024!
 - 💻 In the past, I worked in academia, contributing to the machine learning and natural language processing fields. I was a research intern at San Diego State University, Stanford University, and Fremont STEM (a research facility). 
 - 💜 Passionate about increasing diversity in tech, ethical ML, and solving challenging problems. Also baking.
 - 📫 Always happy to chat :) --> [LinkedIn](https://www.linkedin.com/in/riya-bhatia1/) | riyabhat@andrew.cmu.edu
