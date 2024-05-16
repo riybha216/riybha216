@@ -1,5 +1,5 @@
 - 👋 Hi there! I’m Riya, an incoming junior at Carnegie Mellon University studying Computer Science & concentrating in Computer Systems.
-- 💼 Previously, I was a Software Engineer Intern at [Bloomberg](https://github.com/bloomberg), where I helped develop scalable client workflows on the Bloomberg Terminal in the Foreign Exchange (FX) space. Before that, I contributed to academia, and was a research intern at San Diego State University, Stanford University, and Fremont STEM (a research facility).
-- 💻 Currently, I'm currently building FDetect (patent pending), an ML-powered system to detect fibromyalgia, a pain disorder, in its early stages. I'm also returning to Bloomberg this summer!
-- 💜 Passionate about increasing diversity in tech, ethical ML, and solving challenging problems. And, photography!
+- 💼 Previously, I was a Software Engineer Intern at [Bloomberg](https://github.com/bloomberg), where I helped develop scalable client workflows on the Bloomberg Terminal in the Foreign Exchange space. Prior to this, I contributed to academia, and was a research intern at San Diego State University, Stanford University, and Fremont STEM (a research facility).
+- 💻 Currently, I'm building FDetect (patent pending), an ML-powered system to detect fibromyalgia in its early stages. I'm also excited to return to Bloomberg this summer!
+- 💜 Passionate about increasing diversity in tech, ethical ML, and solving challenging problems.
 - 📫 Always happy to chat :) --> [LinkedIn](https://www.linkedin.com/in/riya-bhatia1/) | riyabhat@andrew.cmu.edu
