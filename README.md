@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm Riya, an incoming junior at Carnegie Mellon University studying Computer Science with a concentration in Computer Systems.
+- 👋 Hi there! I'm Riya, an incoming junior at Carnegie Mellon University studying Computer Science with a concentration in Machine Learning.
 - 💼 Previously, I was a Software Engineer Intern at [Bloomberg](https://github.com/bloomberg), where I developed scalable client workflows on the Bloomberg Terminal, and was a contributor to open-source projects at various research labs.
 - 💻 Currently, I'm building FDetect (patent pending), an ML-powered system to detect fibromyalgia in its early stages. I'm also thrilled to be returning to Bloomberg this summer!
 - 💜 Passionate about increasing diversity in tech, ethical ML, and solving challenging problems.
