@@ -1,5 +1,5 @@
 - 👋 Hi there! I'm Riya, a senior at Carnegie Mellon University studying Computer Science with a concentration in Machine Learning.
-- 💼 Previously, I was a Software Engineer Intern at [Bloomberg](https://github.com/bloomberg), where I developed data & AI pipelines for the Bloomberg Terminal, and was a contributor to open-source projects at various research labs.
+- 💼 Previously, I was a Software Engineer Intern at Microsoft and Bloomberg, where I developed data & AI pipelines for Microsoft Copilot and the Bloomberg Terminal, respectively, and was a contributor to open-source projects at various research labs.
 - 💻 Currently, I'm building FDetect (patent filing in progress), an ML-powered system to detect fibromyalgia in its early stages. I'm also thrilled to be joining Microsoft this summer, working on the Data Platform & Growth team.
 - 💜 Passionate about increasing diversity in tech, ethical ML, and solving challenging problems.
 - 📫 Always happy to chat :) --> [LinkedIn](https://www.linkedin.com/in/riya-bhatia1/) | riyabhat@andrew.cmu.edu
